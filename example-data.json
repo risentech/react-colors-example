@@ -1,0 +1,38 @@
+{
+  "colors": [
+    {
+      "color": "red",
+      "value": "#f00",
+      "message": "Simple message"
+    },
+    {
+      "color": "green",
+      "value": "#0f0",
+      "message": "Message with <strong>HTML</strong> tags"
+    },
+    {
+      "color": "blue",
+      "value": "#00f",
+      "message": "Am I going to work? I should not! <script>alert('Hello!');</script>"
+    },
+    {
+      "color": "cyan",
+      "value": "0ff"
+    },
+    {
+      "color": "magenta",
+      "value": "#f0f",
+      "message": "<img src='https://c2.staticflickr.com/4/3684/11803460685_dd40050e8e_h.jpg'>"
+    },
+    {
+      "color": "yellow",
+      "value": "#ff0",
+      "message": ""
+    },
+    {
+      "color": "black",
+      "value": "#000",
+      "message": ""
+    }
+  ]
+}

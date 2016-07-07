@@ -1,0 +1,26 @@
+{
+  "name": "react-colors-example",
+  "version": "1.0.0",
+  "description": "Shows the way showing information from remote/local json is done using react and jquery for eventual retrevial of data (not implemented since missing some details, but there is funciton for it)",
+  "main": "index.html",
+  "dependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babelify": "^7.3.0",
+    "browserify": "^13.0.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-react": "^3.1.0",
+    "jquery": "^3.0.0",
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0",
+    "react-modal": "^1.4.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RisenDot",
+  "license": "MIT"
+}
